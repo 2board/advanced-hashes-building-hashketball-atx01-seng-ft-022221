@@ -42,8 +42,8 @@ def game_hash
             [:rebounds => 11],
             [:assists => 6,]
             [:steals => 3],
-            :blocks => 8,
-            :slam_dunks => 5
+            [:blocks => 8,]
+            [:slam_dunks => 5]
         },
         "Jason Terry" => {
             :number => 31,
