@@ -1,5 +1,5 @@
 # Write your code here!
-def game_hash
+def game_hash(params)
   {
     :home => {
       :team_name => "Brooklyn Nets",
